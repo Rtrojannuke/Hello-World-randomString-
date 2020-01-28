@@ -29,6 +29,7 @@ public class trend {
 		}
 	}
 	public static void test(){
-		Driver.get("konga.com");
-	}
+		Driver.get("https://docs.google.com/spreadsheets/d/1nIjdMHp1zauehfWTg1JKvdHYzUXIXeS8zCJctzADhu4/edit#gid=1564777721");
+		}
+	
 }
